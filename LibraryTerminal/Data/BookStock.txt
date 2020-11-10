@@ -1,0 +1,26 @@
+Fight Club|CheckedOut|11/16/2020 11:59:00 PM|Chuck Palahniuk
+To Kill a Mockingbird|OnShelf|11/16/2020 10:49:58 AM|Harper Lee
+Of Mice and Men|OnShelf|12/12/2999 12:00:00 AM|John Steinbeck
+Dracula|OnShelf|12/12/2999 12:00:00 AM|Bram Stoker
+A Tale of Two Cities|OnShelf|12/12/2999 12:00:00 AM|Charles Dickens
+Emma|OnShelf|12/12/2999 12:00:00 AM|Jane Austen
+Dune|OnShelf|12/12/2999 12:00:00 AM|Frank Herbert
+The Picture of Dorian|OnShelf|12/12/2999 12:00:00 AM|Oscar Wilde
+The Adventures of Huckleberry Finn|OnShelf|12/12/2999 12:00:00 AM|Mark Twain
+The Little Prince|OnShelf|12/12/2999 12:00:00 AM|Antoine de Saint-Exupery
+The Handmaid's Tale|OnShelf|12/12/2999 12:00:00 AM|Margaret Atwood
+Frankenstein|OnShelf|12/12/2999 12:00:00 AM|Mary Shelley
+Of Mice and Men|OnShelf|11/16/2020 11:59:00 PM|John Steinbeck
+The Iliad|OnShelf|12/12/2999 12:00:00 AM|Homer
+Anne of Green Gables|OnShelf|12/12/2999 12:00:00 AM|L.M.Montgomery
+Neverwhere|CheckedOut|11/16/2020 11:59:00 PM|Neil Gaiman
+The Subtle Knife|OnShelf|12/12/2999 12:00:00 AM|Philip Pullman
+The Lightning Thief|OnShelf|12/12/2999 12:00:00 AM|Rick Riordan
+Pillars of the Earth|OnShelf|12/12/2999 12:00:00 AM|Ken Follett
+War and Peace|OnShelf|11/16/2020 11:08:08 AM|Leo Tolstoy
+The Diary of a Young Girl|OnShelf|12/12/2999 12:00:00 AM|Anne Frank
+The Stranger|OnShelf|12/12/2999 12:00:00 AM|Albert Camus
+On the Road|OnShelf|12/12/2999 12:00:00 AM|Jack Kerouac
+The Name of the Wind|CheckedOut|11/16/2020 11:33:33 AM|Patrick Rothfuss
+The Wise Man's Fear|CheckedOut|11/16/2020 11:34:03 AM|Patrick Rothfuss
+Test book|OnShelf|12/12/2999 12:00:00 AM|Test author
